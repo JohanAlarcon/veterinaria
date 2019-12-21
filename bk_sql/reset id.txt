@@ -1,0 +1,39 @@
+ALTER TABLE diagnostico AUTO_INCREMENT = 1;
+
+ALTER TABLE img_cornea_derecho AUTO_INCREMENT = 1;
+
+ALTER TABLE img_cornea_izquierdo AUTO_INCREMENT = 1;
+
+ALTER TABLE img_fondo_derecho AUTO_INCREMENT = 1;
+
+ALTER TABLE img_fondo_izquierdo AUTO_INCREMENT = 1;
+
+ALTER TABLE img_lente_derecho AUTO_INCREMENT = 1;
+
+ALTER TABLE img_iris_izquierdo AUTO_INCREMENT = 1;
+
+ALTER TABLE img_lente_izquierdo AUTO_INCREMENT = 1;
+
+ALTER TABLE img_parpado_derecho AUTO_INCREMENT = 1;
+
+ALTER TABLE img_parpado_izquierdo AUTO_INCREMENT = 1;
+
+ALTER TABLE ojoderecho AUTO_INCREMENT = 1;
+
+ALTER TABLE ojoizquierdo AUTO_INCREMENT = 1;
+
+ALTER TABLE unioncornead AUTO_INCREMENT = 1;
+
+ALTER TABLE unioncorneai AUTO_INCREMENT = 1;
+
+ALTER TABLE uniondiagnostico AUTO_INCREMENT = 1;
+
+ALTER TABLE unionirisd AUTO_INCREMENT = 1;
+
+ALTER TABLE unionirisi AUTO_INCREMENT = 1;
+
+
+
+
+
+
